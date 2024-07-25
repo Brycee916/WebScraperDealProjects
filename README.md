@@ -1,6 +1,6 @@
 # WebScraperDealProject
 INFO:
-  This is a full stack project in progress that let's users find the best deals on items. The user will be able to bookmark items and tabs.
+  User will be able to see their stats in valorant.
 
 Contributors:
   Bryce Chao
@@ -11,9 +11,7 @@ Front End / UI
 React
 #
 Web Scraper
-Node, express - backend
-Sign In
-Firebase
+Node, express, cheerio - backend
 Database
 MongoDB
 #
